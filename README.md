@@ -17,6 +17,8 @@ quick exploration of the spatial distribution of archaeological objects.
 Here, the main goal of SEAHORS.bucket is to tools to explore spatial and stratigraphical archazological data 
 coming from material from bucket/spit 
 
+This application is still in progres !!! (07/2025)
+
 ## Installation
 
 
